@@ -25,6 +25,7 @@ body{
     grid-template-columns: repeat(4,75px);
     grid-template-rows: 160px repeat(5,75px);
     background-color: rgb(29, 14, 238);
+    color: white;
     padding: 15px;
     border-radius: 25px;
     box-shadow: 15px 10px 0px 5px #00000033;
